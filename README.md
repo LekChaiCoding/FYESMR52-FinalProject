@@ -16,8 +16,17 @@ All setup material now lives in `qiskit-setup/`.
 - Start here: `qiskit-setup/README.md`
 - Windows guide: `qiskit-setup/windows/README.md`
 - macOS guide: `qiskit-setup/mac/README.md`
+- Beginner circuit notebook: `qiskit guide/qiskit guide.ipynb`
 - Verify a setup: `qiskit-setup/verify_qiskit.py`
 - Save IBM Quantum cloud credentials: `qiskit-setup/configure_ibm_quantum.py`
+
+## Qiskit Learning Guide
+
+If you want a simple example of how to build circuits in Qiskit, open:
+
+- `qiskit guide/qiskit guide.ipynb`
+
+The notebook explains, in beginner-friendly language, how to create a circuit, add gates, measure qubits, and draw the finished circuit.
 
 ## Environment Found On This Computer
 
